@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: #bc9ec1;
+  color: #1f2232;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
